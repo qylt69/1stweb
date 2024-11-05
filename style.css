@@ -1,0 +1,54 @@
+:root{
+    --color01 rgba(210,10,10,1);
+    --color02 #444;
+
+
+
+}
+*{
+    margin: 0;
+    padding: 0;
+
+
+
+}
+html {
+    scroll-behavior: smooth;
+
+}
+body{
+    background: gainsboro;
+
+
+
+
+}
+
+
+#zaciatok{
+    box-shadow: 0 2px 2px grey;
+    background: white;
+    padding: 15px;
+    
+
+}
+
+#info{
+    box-shadow: 0 2px 2px grey;
+    background: white;
+    padding: 10px;
+    margin: 25px;
+    border-radius: 20px;
+
+
+}
+
+#hellsing{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    border-radius: 20px;
+    
+
+}
